@@ -9,19 +9,19 @@ How to use:
 
 Summary of tools used:
 
-AutoMapper
-MediatR
-FluentValidation
-Moq
-xUnit
+AutoMapper <br>
+MediatR <br>
+FluentValidation <br>
+Moq <br>
+xUnit <br>
 
 Pattern used:
 
-CQRS
+CQRS <br>
 Factory
-
+<br><br>
 Unit Testing Included
-
+<br><br>
 If we are going to deploy this on production, and an improvement is to be done, these are the things that should be done:
 
 1. I would change the calculation of the salary for Regular, I think it is not correct (my own calculation is included in this project). <br> ![image](https://github.com/devmorriss/Sprout.Exam.EmployeeCalcu/assets/68768091/a3b94bb8-1e30-4f5a-bfda-09529ea61bb5)
