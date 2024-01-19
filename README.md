@@ -3,6 +3,7 @@ Readme
 How to use:
 1. Once cloned, do a dotnet restore, clean, and build.
 2. I added a migration just in case you forgot to restore the database.bak file in ms sql. so you can run dotnet run straight.
+3. You need to register and create an account yourself to login if you didnt restore the db backup.
 
 .NET version used:
 .NET 5
